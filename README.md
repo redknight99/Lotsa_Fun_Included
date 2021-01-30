@@ -1,5 +1,5 @@
 # Lotsa_Fun_Included
- Lotsa_Fun_Included is an ultra light weight Python tool used to test for fun files using [Local File Inclusion](https://en.wikipedia.org/wiki/File_inclusion_vulnerability#Local_file_inclusion) bugs.
+ Lotsa_Fun_Included is an ultra light weight Python tool used to search Linux servers for fun files using [Local File Inclusion](https://en.wikipedia.org/wiki/File_inclusion_vulnerability#Local_file_inclusion) bugs.
  
 ## Why
 Because there's no really good, simple to use, Local File Inclusion testing tools out there.
