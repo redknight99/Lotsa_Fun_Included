@@ -9,7 +9,7 @@ Python + [Python Requests](https://requests.readthedocs.io/en/master/) + A giant
 
 ## Usage
 
-`python local_fun_inclusion.py`
+`python lotsa_fun_included.py`
 
 ```
   -ES string
