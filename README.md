@@ -13,7 +13,7 @@ Python + [Python Requests](https://requests.readthedocs.io/en/master/) + A giant
 
 ```
   --url
-        The full LFI vulnerable URL endpoint ( All "../../../" included )
+        The full LFI vulnerable URL endpoint ( All "../../../" included ). Required.
   --wordlist
         The file name of a custom word list. Not Required.
   --debug
