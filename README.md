@@ -5,7 +5,7 @@
 Because there's no really good, simple to use, Local File Inclusion testing tools out there.
 
 ## How
-Python + [Python Requests](https://requests.readthedocs.io/en/master/) + A giant word list of interesting Linux files.
+Python + [Python Requests](https://requests.readthedocs.io/en/master/) + A giant word list of interesting Linux file names.
 
 ## Usage
 
