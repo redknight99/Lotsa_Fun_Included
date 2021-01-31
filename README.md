@@ -12,15 +12,18 @@ Python + [Python Requests](https://requests.readthedocs.io/en/master/) + A giant
 `python lotsa_fun_included.py`
 
 ```
-  -ES string
-        ElasticSearch URL
-  -config string
-        Path to an elastic to maltego csv file
-  -debug
-        debug output
+  --url
+        The full LFI vulnerable endpoint ( All "../../../" included )
+  --wordlist
+        The file name of a custom word list. Not Required.
+  --debug
+        This flag sets the output to debug.
 ```
 
 ## Future Plans
-Because we (myself and you the user of this awesome tool) aren't no script kiddies, I'm planning on providing educational knowledge when fun files are found using this script. (What the file is, what you can / might learn from it, etc)
+* Providing educational knowledge when fun files are found using this script. (What the file is, what you can / might learn from it, etc)
+* Multithreaded
+* Saving the results as it goes in case of crash or system restart.
 
-
+## Pull Requests
+Love em'! Send em' over and I'll review / merge!
